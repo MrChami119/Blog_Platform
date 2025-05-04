@@ -1,1 +1,16 @@
 D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\BlogApplication.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\controllers\CategoryController.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\dtos\CategoryDto.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\dtos\CreateCategoryRequest.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\entities\Category.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\entities\Post.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\entities\Tag.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\entities\User.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\domain\PostStatus.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\mappers\CategoryMapper.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\repositories\CategoryRepository.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\repositories\PostRepository.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\repositories\TagRepository.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\repositories\UserRepository.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\services\CategoryService.java
+D:\GHD\Blog_Platform\blog\src\main\java\com\cg\blog\services\impl\CategoryServiceImpl.java
