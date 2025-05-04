@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91548334-bba0-4949-b3ba-845b48cbae5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/blog/domain/entities/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/blog/domain/PostStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/blog/domain/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/blog/domain/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -104,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746377974018</updated>
       <workItem from="1746377975187" duration="307000" />
-      <workItem from="1746378299137" duration="5205000" />
+      <workItem from="1746378299137" duration="5885000" />
     </task>
     <servers />
   </component>
