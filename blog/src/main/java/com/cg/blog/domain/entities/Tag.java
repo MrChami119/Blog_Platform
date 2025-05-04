@@ -3,7 +3,9 @@ package com.cg.blog.domain.entities;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.util.HashSet;
 import java.util.Objects;
+import java.util.Set;
 import java.util.UUID;
 
 @Entity
@@ -22,8 +24,12 @@ public class Tag {
     @Column(nullable = false, unique = true)
     private String name;
 
+    @ManyToMany(mappedBy = "tags")
+    private Set<Post> posts = new HashSet<>();
+
     @Override
     public boolean equals(Object o) {
+        if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Tag tag = (Tag) o;
         return Objects.equals(id, tag.id) && Objects.equals(name, tag.name);
